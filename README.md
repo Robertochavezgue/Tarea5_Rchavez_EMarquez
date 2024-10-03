@@ -26,7 +26,7 @@ dimensional compatibility can be expressed: <br>
 
 ![gh-app](images/Description.jpg)
 
-</Details></div>
+</Details></div><br><br>
 
 <b> The solution is found when the difference is 0 (10 iterations approx.)</b>
 <br><br>
@@ -147,7 +147,7 @@ $$\hat{F}^{N} = \frac{b-a}{N-1} \sum_{i=0}^{N} f\bigg[a + \xi(b-a)\bigg]$$
 
 ##### License:&nbsp;[![Creative Commons BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by/3.0/)<br>
 </Details>
-<div align="center">
+<div align="right">
 
 ##### Repository: 
 
